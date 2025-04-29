@@ -1,0 +1,23 @@
+import Cart from './Cart.svg';
+import Chat from './Chat.svg';
+import CommentIcon from './CommentIcon.svg';
+import Filter from './Filter.svg';
+import HamburgerMenu from './Hamburger-Menu.svg';
+import History from './History.svg';
+import Home from './Home.svg';
+import LogOut from './Log-Out.svg';
+import Profile from './Profile.svg';
+import Star from './Star.svg';
+import YellowStar from './Yellow-Star.svg';
+import Send from './Send.svg';
+import Cross from './Cross.svg';
+import NextClicked from './Next-Clicked.svg';
+import Next from './Next.svg';
+import Shop from './Shop.svg';
+import Favorite from './Favorite.svg';
+import Favorited from './Favorited.svg';
+import Edit from './Edit.svg';
+import Trash from './Trash.svg';
+import Statistic from './Statistic.svg';
+
+export { Cart, Chat, CommentIcon, Trash, Filter, HamburgerMenu, History, Home, LogOut, Profile, Star, YellowStar, Send, Cross, Next, NextClicked, Shop, Favorite, Favorited, Edit, Statistic };
